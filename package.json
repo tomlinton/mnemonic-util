@@ -1,0 +1,12 @@
+{
+  "name": "mnemonic-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.73.0",
+    "bip39": "^3.0.4",
+    "ethers": "^5.7.2",
+    "micro-ed25519-hdkey": "^0.1.2"
+  }
+}
